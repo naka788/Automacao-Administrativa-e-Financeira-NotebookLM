@@ -150,4 +150,4 @@ A IA pode criar e-mails personalizados e profissionais em segundos, ajudando no 
 
 Qual desses prompts você acha que já conseguiria testar na sua rotina hoje? Se quiser, me mande um exemplo fictício e eu te mostro como a IA responderia!
 </details>
-* **Troubleshooting:** > Bom prompt e maravilhosa resposta. Acredito que com um pouco mais de contexto nesses prompts reutilizaveis, eles podem ajudar ainda mais algum profissional da área e até de outras.
+* **Troubleshooting:** Bom prompt e maravilhosa resposta. Acredito que com um pouco mais de contexto nesses prompts reutilizaveis, eles podem ajudar ainda mais algum profissional da área e até de outras.
