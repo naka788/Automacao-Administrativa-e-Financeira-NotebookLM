@@ -79,7 +79,7 @@ Você gostaria de saber mais detalhes sobre como dar o primeiro passo para imple
 
 * **Troubleshooting:** > O prompt foi bem básico mas permitiu que a IA pudesse me devolver uma resposta clara, simples e que pode dar inicio a uma conversa sobre que meios eu poderia procurar para começar esses processos de automatização.
 
-### Teste 1: Resumo dos usos da IA na rotina de um profissional da área
+### Teste 2: Lista de prompts reutilizáveis para profissionais da área
 
 * **Prompt Utilizado:** > "Com base nas suas fontes e conhecimentos, crie uma lista de prompts reutilizaveis que possam ser usados para resolver problemas diários, como categorizar despesas, redigir e-mails de cobrança ou analisar uma planilha de fluxo de caixa. Esses prompts devem ser modelos prontos que um profissional do setor administrativo ou financeiro possa simplesmente copiar, preencher com seus dados e colar em uma IA como Gemini ou ChatGPT."
 
