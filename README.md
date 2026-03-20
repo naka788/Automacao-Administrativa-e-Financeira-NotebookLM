@@ -77,4 +77,77 @@ Você gostaria de saber mais detalhes sobre como dar o primeiro passo para imple
 
 </details>
 
-* **Cicatrizes (Troubleshooting):** > O prompt foi bem básico mas permitiu que a IA pudesse me devolver uma resposta clara, simples e que pode dar inicio a uma conversa sobre que meios eu poderia procurar para começar esses processos de automatização.
+* **Troubleshooting:** > O prompt foi bem básico mas permitiu que a IA pudesse me devolver uma resposta clara, simples e que pode dar inicio a uma conversa sobre que meios eu poderia procurar para começar esses processos de automatização.
+
+### Teste 1: Resumo dos usos da IA na rotina de um profissional da área
+
+* **Prompt Utilizado:** > "Com base nas suas fontes e conhecimentos, crie uma lista de prompts reutilizaveis que possam ser usados para resolver problemas diários, como categorizar despesas, redigir e-mails de cobrança ou analisar uma planilha de fluxo de caixa. Esses prompts devem ser modelos prontos que um profissional do setor administrativo ou financeiro possa simplesmente copiar, preencher com seus dados e colar em uma IA como Gemini ou ChatGPT."
+
+* **Resposta Obtida:**
+<details>
+<summary><b>Clique aqui para ler a resposta original completa da IA</b></summary>
+   Com certeza! Como consultor de tecnologia, posso afirmar que saber pedir as coisas para a Inteligência Artificial (o que chamamos de "escrever um bom *prompt*") é o segredo para extrair o máximo dessas ferramentas. 
+
+Com base nas fontes e na nossa conversa, preparei uma lista de **modelos de *prompts* (comandos) prontos e reutilizáveis**. Você só precisa copiar o texto, preencher as partes entre colchetes **[ ]** com os seus dados reais e colar no ChatGPT, Gemini ou Claude.
+
+Aqui estão os modelos para otimizar sua rotina:
+
+### 1. Categorização Automática de Despesas
+Este prompt é ideal para limpar e organizar extratos bancários bagunçados. Ele força a IA a te dar uma resposta direta, sem inventar texto extra (evitando o famoso "blá blá blá" da IA).
+
+*   **O Prompt (Copie e Cole):**
+> "Você é um analista de dados financeiros trabalhando em um projeto de organização de contas. Seu trabalho é escolher uma categoria adequada para cada lançamento financeiro que eu vou te enviar. Escolha uma dentre as seguintes categorias: **[INSERIR SUAS CATEGORIAS AQUI. Ex: Aluguel, Software, Impostos, Material de Escritório, Pagamento de Fornecedores, Viagens]**.
+>
+> Escolha a categoria do seguinte item: **[COLE A LINHA DO SEU EXTRATO OU PLANILHA AQUI]**.
+> Responda apenas com o nome da categoria, sem textos adicionais."
+
+### 2. Extração Rápida de Dados Financeiros de Textos ou Áudios
+Se você costuma fazer anotações rápidas de gastos (ou usar ferramentas que transcrevem áudios), este prompt organiza a bagunça em informações estruturadas.
+
+*   **O Prompt (Copie e Cole):**
+> "Você é um assistente financeiro altamente organizado. Vou te enviar um texto relatando um gasto. Sua tarefa é extrair os seguintes dados exatos desta despesa: descrição, categoria, data e valor. 
+> 
+> Relato do gasto: **[COLE AQUI O SEU TEXTO. Ex: Gastei 150 reais em material de escritório na Kalunga na última terça-feira]**
+>
+> Por favor, me devolva essas informações formatadas em uma tabela simples."
+
+### 3. Revisão Rápida de Contratos e Riscos Financeiros
+Ler contratos longos toma muito tempo. Você pode usar a IA para fazer uma leitura dinâmica e destacar o que realmente importa para o seu bolso.
+
+*   **O Prompt (Copie e Cole):**
+> "Atue como um analista de contratos e consultor financeiro. Leia o contrato abaixo e resuma as informações financeiras mais importantes. Especificamente, interprete e aponte os seguintes pontos: 
+> 1. Pontos de risco financeiro para a minha empresa.
+> 2. Cláusulas referentes a multas, juros e prazos de pagamento.
+> 3. Sugestões de melhorias em cláusulas que possam me proteger mais em uma renegociação.
+> 
+> Contrato: **[COLE O TEXTO DO CONTRATO AQUI]**"
+
+### 4. Análise de Fluxo de Caixa e Identificação de Padrões
+A IA é excelente para cruzar dados e encontrar padrões de vendas ou gastos que um ser humano poderia deixar passar.
+
+*   **O Prompt (Copie e Cole):**
+> "Atue como um consultor financeiro sênior. Abaixo estão os dados simplificados do meu fluxo de caixa do último mês. Preciso que você analise esses dados para:
+> 1. Identificar padrões de consumo e onde estou gastando mais.
+> 2. Identificar possíveis sazonalidades nas entradas e saídas.
+> 3. Me dar 3 sugestões práticas de onde posso aplicar estratégias de redução de custos e otimização de processos.
+>
+> Dados do fluxo de caixa: **[COLE OS DADOS DA SUA PLANILHA AQUI - você pode simplesmente copiar as células do Excel e colar]**."
+
+### 5. Redação de E-mails de Cobrança (Comunicação)
+A IA pode criar e-mails personalizados e profissionais em segundos, ajudando no marketing e na comunicação com clientes inadimplentes.
+
+*   **O Prompt (Copie e Cole):**
+> "Atue como um assistente administrativo educado e profissional. Escreva um e-mail de cobrança para um cliente que está com a fatura atrasada. O tom deve ser amigável, mas firme, preservando o bom relacionamento e oferecendo um canal de diálogo caso ele tenha tido algum problema.
+> 
+> Utilize os seguintes dados para personalizar o e-mail:
+> Nome do Cliente: **[NOME DO CLIENTE]**
+> Serviço/Produto: **[O QUE FOI VENDIDO]**
+> Valor da Fatura: **[VALOR]**
+> Data de Vencimento Original: **[DATA]**
+> Link para pagamento: **[LINK DO BOLETO OU CHAVE PIX]**"
+
+**Dica de Ouro do Consultor:** Você pode sempre pedir para a IA refazer o trabalho se não ficar bom de primeira. Por exemplo, se o e-mail de cobrança ficou muito agressivo, basta digitar: *"Reescreva deixando o tom mais amigável e focado em ajudar o cliente"*. 
+
+Qual desses prompts você acha que já conseguiria testar na sua rotina hoje? Se quiser, me mande um exemplo fictício e eu te mostro como a IA responderia!
+</details>
+* **Troubleshooting:** > Bom prompt e maravilhosa resposta. Acredito que com um pouco mais de contexto nesses prompts reutilizaveis, eles podem ajudar ainda mais algum profissional da área e até de outras.
