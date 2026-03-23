@@ -200,4 +200,8 @@ Um profissional da área financeira ou administrativa pode utilizar o material e
 
 * **Notas sobre o 2º prompt:** Saiu bem melhor, mas ainda não está onde eu gostaria que estivesse.
 
-Considerações finais: Esse projeto foi interessante e mostrou que a ferramente NotebookLM tem potencial para ser um agente de aprendizado bom, mas não atingiu minhas expectativas muito provavelmente por falta de fontes. Pode ajudar alguem a realmente automatizar e facilitar processos no dia a dia de trabalho no setor administrativo e financeiro com um pouco mais de refinamento.
+### Considerações Finais
+
+Esse projeto foi uma experiência interessante e mostrou que a ferramenta NotebookLM tem um grande potencial para atuar como um agente de aprendizado. No entanto, o resultado final não atingiu totalmente as minhas expectativas iniciais, muito provavelmente pela limitação no volume e na especificidade das fontes que utilizei. 
+
+Apesar disso, acredito que, com um pouco mais de refinamento e a inclusão de dados mais práticos do dia a dia, este material e os prompts desenvolvidos podem ajudar profissionais reais a automatizarem tarefas e facilitarem processos operacionais no setor administrativo e financeiro.
