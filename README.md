@@ -1,4 +1,4 @@
-# Automacao-Administrativa-e-Financeira-NotebookLM
+# Miniguia-Automacao-Administrativa-e-Financeira-NotebookLM
 ### OBJETIVO DO PROJETO
 Projeto prático explorando a implementação de IA para otimizar rotinas administrativas. Contém conteúdo gerado via NotebookLM, juntamente com resumos, glossário e prompts reutilizáveis para gestão financeira e automação de tarefas.
 A rotina de departamentos administrativos e financeiros é marcada por processos manuais repetitivos, como controle de fluxo de caixa, triagem de documentos e relatórios de dados. Este projeto surge com o intuito de ajudar os profissionais da área a facilitar sua rotina, automatizando processos e ganhando mais tempo para focar em outras demandas, alcançando assim mais eficiência dentro do ambiente de trabalho.
